@@ -7,7 +7,7 @@ body {
     margin: 0;
 }
 .header {
-    background-image: url('img2/image.png'); 
+    background-image: url('img/image.png'); 
     background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat; 
